@@ -1,0 +1,23 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+
+# Archivos generados
+maps/*.graphml
+maps/*.gpkg
+maps/*_buildings*.geojson
+maps/*_entrances*.geojson
+maps/building_entrances_nodes.json
+
+# Archivos temporales / logs
+*.log
+*.tmp
+
+# Configuración local
+.env
+.DS_Store
+.vscode/
