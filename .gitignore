@@ -5,6 +5,8 @@ venv/
 # Archivos compilados
 __pycache__/
 *.pyc
+.cache/
+cache/
 
 # Archivos generados
 maps/*.graphml
