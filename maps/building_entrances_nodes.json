@@ -1,0 +1,202 @@
+[
+  {
+    "building": "Biblioteca Luis Echavarría Villegas",
+    "entrance": "main",
+    "node": 4121140523
+  },
+  {
+    "building": "Biblioteca Luis Echavarría Villegas",
+    "entrance": "yes",
+    "node": 4121140523
+  },
+  {
+    "building": "Edificio de Ingenierías - Bloque 19",
+    "entrance": "yes",
+    "node": 5408054604
+  },
+  {
+    "building": "Edificio de Ingenierías - Bloque 19",
+    "entrance": "yes",
+    "node": 5408054612
+  },
+  {
+    "building": "Bloque 26",
+    "entrance": "yes",
+    "node": 5408056121
+  },
+  {
+    "building": "Casa 9 - Universidad EAFIT",
+    "entrance": "yes",
+    "node": 4121140511
+  },
+  {
+    "building": "Casa 9 - Universidad EAFIT",
+    "entrance": "yes",
+    "node": 4121140519
+  },
+  {
+    "building": "Bloque 7",
+    "entrance": "yes",
+    "node": 9868991070
+  },
+  {
+    "building": "Portería Las Vegas (Peatonal)",
+    "entrance": "yes",
+    "node": 5408098632
+  },
+  {
+    "building": "Portería Las Vegas (Peatonal)",
+    "entrance": "yes",
+    "node": 5408098632
+  },
+  {
+    "building": "Bloque 29",
+    "entrance": "yes",
+    "node": 4121140524
+  },
+  {
+    "building": "Bloque 28 - Auditorio Fundadores",
+    "entrance": "yes",
+    "node": 4121140524
+  },
+  {
+    "building": "Bloque 27",
+    "entrance": "yes",
+    "node": 5408056121
+  },
+  {
+    "building": "Bloque 27",
+    "entrance": "yes",
+    "node": 12200079861
+  },
+  {
+    "building": "Bloque 34",
+    "entrance": "yes",
+    "node": 12200079861
+  },
+  {
+    "building": "Bloque 35",
+    "entrance": "yes",
+    "node": 12200079861
+  },
+  {
+    "building": "Bloque 36 - Cafeterías",
+    "entrance": "yes",
+    "node": 386271624
+  },
+  {
+    "building": "Bloque 38",
+    "entrance": "yes",
+    "node": 4121140582
+  },
+  {
+    "building": "Bloque 38",
+    "entrance": "yes",
+    "node": 4121140582
+  },
+  {
+    "building": "Bloque 38",
+    "entrance": "yes",
+    "node": 4121140582
+  },
+  {
+    "building": "Bloque 37",
+    "entrance": "yes",
+    "node": 4121140582
+  },
+  {
+    "building": "Bloque 39",
+    "entrance": "yes",
+    "node": 386271622
+  },
+  {
+    "building": "Bloque 39",
+    "entrance": "yes",
+    "node": 4121140582
+  },
+  {
+    "building": "Bloque 18",
+    "entrance": "yes",
+    "node": 5408056121
+  },
+  {
+    "building": "Bloque 18",
+    "entrance": "yes",
+    "node": 4121140571
+  },
+  {
+    "building": "Bloque 16",
+    "entrance": "yes",
+    "node": 5408098623
+  },
+  {
+    "building": "Bloque 16",
+    "entrance": "yes",
+    "node": 5408098622
+  },
+  {
+    "building": "Bloque 15",
+    "entrance": "yes",
+    "node": 5408098621
+  },
+  {
+    "building": "Bloque 14",
+    "entrance": "yes",
+    "node": 5408098621
+  },
+  {
+    "building": "Bloque 13",
+    "entrance": "yes",
+    "node": 5408054618
+  },
+  {
+    "building": "Bloque 23",
+    "entrance": "yes",
+    "node": 5408098623
+  },
+  {
+    "building": "Bloque 20",
+    "entrance": "yes",
+    "node": 5408098621
+  },
+  {
+    "building": "Bloque 20",
+    "entrance": "yes",
+    "node": 5408054612
+  },
+  {
+    "building": "Bloque 21",
+    "entrance": "yes",
+    "node": 5408054612
+  },
+  {
+    "building": "Bloque 21",
+    "entrance": "yes",
+    "node": 5408054612
+  },
+  {
+    "building": null,
+    "entrance": "yes",
+    "node": 4121140523
+  },
+  {
+    "building": "Bloque Argos",
+    "entrance": "yes",
+    "node": 4121140571
+  },
+  {
+    "building": "Bloque Argos",
+    "entrance": "yes",
+    "node": 10716587793
+  },
+  {
+    "building": null,
+    "entrance": "yes",
+    "node": 5408054612
+  },
+  {
+    "building": "Las hermosas",
+    "entrance": "yes",
+    "node": 10716587793
+  }
+]
